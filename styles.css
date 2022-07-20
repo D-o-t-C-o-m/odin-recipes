@@ -1,0 +1,17 @@
+*{
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    text-align: center;
+}
+img {
+    width: auto;
+    height: 300px;
+}
+.para{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    color: lightslategray;
+}
